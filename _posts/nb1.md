@@ -23,7 +23,7 @@
 !pip install gensim
 !pip install keras
 !pip install tqdm
-!pip install 
+!pip install numpy as np
 !pip install seaborn 
 !pip install tensorflow
 ```
