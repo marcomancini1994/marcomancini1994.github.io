@@ -1,4 +1,4 @@
-![](https://breakingtech.it/wp-content/uploads/2018/04/twitter-moments-1.jpg)
+![header](https://breakingtech.it/wp-content/uploads/2018/04/twitter-moments-1.jpg)
 
 ## What's in the notebook?
 - Full Exploratory Data Analysis (EDA)
@@ -265,7 +265,7 @@ def plot_hist_classes(to_plot, _header):
 
 
 
-![](https://github.com/marcomancini1994/marcomancini1994.github.io/blob/master/images/nb1_output_6_1.jpg)
+![trying to display it...](https://github.com/marcomancini1994/marcomancini1994.github.io/blob/master/images/nb1_output_6_1.jpg)
 
 
 ## Text analysis
