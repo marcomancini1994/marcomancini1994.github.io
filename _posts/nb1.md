@@ -265,7 +265,7 @@ def plot_hist_classes(to_plot, _header):
 
 
 
-![Here we try](images/nb1_output_6_1.jpg)
+![](https://github.com/marcomancini1994/marcomancini1994.github.io/blob/master/images/nb1_output_6_1.jpg)
 
 
 ## Text analysis
