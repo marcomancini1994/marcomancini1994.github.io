@@ -8,5 +8,5 @@ You can find me on all these other platforms:
 * [Linkedin](https://www.linkedin.com/in/marco-mancini-6b2969108/)
 * [Facebook](https://www.facebook.com/Mancio94)
 
-You can find more about my job carreer at the following [link](https://it.scribd.com/document/444135300/cv-nlp-mm)
+Here a [link](https://it.scribd.com/document/444135300/cv-nlp-mm) to my CV!
 
