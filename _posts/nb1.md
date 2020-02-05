@@ -265,7 +265,7 @@ def plot_hist_classes(to_plot, _header):
 
 
 
-![png](images/nb1_output_6_1.png)
+![png](images/nb1_output_6_1.jpg)
 
 
 ## Text analysis
