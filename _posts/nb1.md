@@ -265,7 +265,7 @@ def plot_hist_classes(to_plot, _header):
 
 
 
-![png](nb1_output_6_1.png)
+![png](images/nb1_output_6_1.png)
 
 
 ## Text analysis
@@ -330,21 +330,21 @@ show_word_distrib(target=0, field="text")
 
 
 
-![png](nb1_output_8_1.png)
+![png](images/nb1_output_8_1.png)
 
 
     -Number of words in a tweet
 
 
 
-![png](nb1_output_8_3.png)
+![png](images/nb1_output_8_3.png)
 
 
     -Average word lenght in a tweet
 
 
 
-![png](nb1_output_8_5.png)
+![png](images/nb1_output_8_5.png)
 
 
     -Word distribution
@@ -377,11 +377,11 @@ show_word_distrib(target=0, field="text")
 
 
 
-![png](nb1_output_8_7.png)
+![png](images/nb1_output_8_7.png)
 
 
 
-![png](nb1_output_8_8.png)
+![png](images/nb1_output_8_8.png)
 
 
 ## Hashtag analysis
@@ -468,11 +468,11 @@ show_word_distrib(target=0, field="hashtag")
 
 
 
-![png](nb1_output_10_1.png)
+![png](images/nb1_output_10_1.png)
 
 
 
-![png](nb1_output_10_2.png)
+![png](images/nb1_output_10_2.png)
 
 
 # KW and Location analysis
@@ -702,11 +702,11 @@ show_word_distrib(target=0, field="text")
 
 
 
-![png](nb1_output_15_1.png)
+![png](images/nb1_output_15_1.png)
 
 
 
-![png](nb1_output_15_2.png)
+![png](images/nb1_output_15_2.png)
 
 
 # Utils for models
