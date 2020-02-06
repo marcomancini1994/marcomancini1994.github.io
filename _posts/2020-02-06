@@ -1,0 +1,30 @@
+# How to approach your NLP problem
+
+In this post I'll try to give you some hint for your solving your NLP tasks. 
+
+## Surf!
+
+When you are trying to solve an NLP task, generally speaking, I always suggest to first have a look what's into "the wild". 
+Surfing on the web using the correct keywords plays an important role here. 
+In this field there is a tremendous sparsity of terms and synonyms, as well as an huge amount of sub-fields and sub-tasks, 
+bringing the number of possible combinations of this terms to explode.
+
+Depending on your knowledge of the field/litterature and your "scraper" skills, you can find a lot of usefull information, and also code.
+At the end of the day, if you are lucky, you have to adapt and run some code to be able to run on your data and provide some results. 
+In the worst case scenario you will have to implement by scratch what you study in a paper. 
+
+My personal preferences and suggestions are [Papers with code](https://paperswithcode.com/area/natural-language-processing) and [Kaggle](https://www.kaggle.com/) but also 
+[Github](https://github.com/) has tons of good references and starting point.
+
+## Keep your portfolio and pipeline.
+
+Whenever you find a solution try to keep the code as much reusable as possible, so that you can have your set of sub-modules.
+This is always a dream, however sometimes could happen that your code is not that clean to be completely re-used or
+for other reasons (e.g company code integration).
+In any case there are general high level procedures which can be applied to the same categories of problems, for which you can have your pipeline ready!
+
+You can build several pipelines, what I suggest are two basic pipelines:
+1. Data cleaning
+2. Data analysis
+
+
