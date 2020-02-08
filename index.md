@@ -1,5 +1,6 @@
-## In short
-I'm a research scientist at VUI Inc. I blog about Natural Language Processing and all the techniques I use in this field.
+## Home
+I'm a research scientist for a startup, working on task-oriented voice multimodal assistants. 
+I blog about Natural Language Processing and all the techniques I use in this field.
 
 ## Reach me wherever you want!
 You can find me on all these other platforms:
