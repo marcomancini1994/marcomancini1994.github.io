@@ -1,5 +1,5 @@
 ## Home
-I'm a research scientist for a startup, working on task-oriented voice multimodal assistants. 
+I'm a research scientist for a startup, working on task-oriented multimodal assistants. 
 I blog about Natural Language Processing and all the techniques I use in this field.
 
 ## Reach me wherever you want!
